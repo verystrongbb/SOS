@@ -1,0 +1,3 @@
+J:/github/SOS/cmake-build-debug/CMakeFiles/SOS.dir
+J:/github/SOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+J:/github/SOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
